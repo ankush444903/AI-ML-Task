@@ -23,3 +23,5 @@ Before running the code in Google Colab, make sure your dataset file is stored o
 ## Data Collections
 collect data on Google for brass and non-brass metals
 
+## Install the requirements
+pip install -r requirements.txt
